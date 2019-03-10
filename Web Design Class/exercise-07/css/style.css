@@ -1,0 +1,41 @@
+body{
+color: #222;
+font-size: 16px;
+font-family: "Helvetica", "Arial", san-serif;
+}
+
+
+a{
+color: rgb(233,87,80);
+}
+
+a:visited{
+color: rgb(15, 97, 165);
+}
+
+header{
+font-size: 24px;
+}
+
+nav{
+font-style: italic;
+}
+
+#preamble{
+    background-color: #eee;
+  }
+
+#articles{
+background-color: #eee;
+}
+#amendments{
+background-color: #eee;
+}
+
+.bill-of-rights{
+background-color: #ccc;
+  }
+
+
+
+}
